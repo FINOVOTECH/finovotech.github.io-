@@ -1,7 +1,8 @@
-# Auto-created by githubPagesMirror Lambda.
+# Auto-managed by githubPagesMirror Lambda.
 title: Finovo Tech Blog Mirror
 description: SEO-safe mirror of finovo.tech blog. Canonical URLs point to the source.
-url: "https://finovotech.github.io/finovotech.github.io-"
+url: "https://finovotech.github.io"
+baseurl: "/finovotech.github.io-"
 markdown: kramdown
 permalink: /blog/:slug/
 plugins:
